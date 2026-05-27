@@ -1,0 +1,24 @@
+# Local-only
+.claude/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+env/
+
+# MicroPython build artefacts
+*.mpy
+
+# macOS
+.DS_Store

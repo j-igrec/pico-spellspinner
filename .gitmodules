@@ -1,0 +1,3 @@
+[submodule "pico-ui-kit"]
+	path = pico-ui-kit
+	url = https://github.com/j-igrec/pico-ui-kit
